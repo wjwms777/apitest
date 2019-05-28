@@ -2,11 +2,13 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "Name": "Captain America",
+        "Profession": "Hero"
       },
       {
         "id": 2,
-        "title": "world"
+        "Name": "Midge Maisel",
+        "Profession": "Comedian"
       }
     ],
     "profile": {
