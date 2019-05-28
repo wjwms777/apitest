@@ -2,13 +2,13 @@
     "posts": [
       {
         "id": 1,
-        "fakeName": "Captain America",
-        "fakeProfession": "Hero"
+        "Name": "Captain America",
+        "Profession": "Hero"
       },
       {
         "id": 2,
-        "fakeName": "Midge Maisel",
-        "fakeProfession": "Comedian"
+        "Name": "Midge Maisel",
+        "Profession": "Comedian"
       }
     ],
     "profile": {
