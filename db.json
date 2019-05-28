@@ -1,12 +1,12 @@
 {
     "fakePeople": [
       {
-        "fakeid": 1,
+        "id": 1,
         "fakeName": "Captain America",
         "fakeProfession": "Hero"
       },
       {
-        "fakeid": 2,
+        "id": 2,
         "fakeName": "Midge Maisel",
         "fakeProfession": "Comedian"
       }
