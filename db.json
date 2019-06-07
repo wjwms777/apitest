@@ -9,7 +9,47 @@
         "id": 2,
         "Name": "Midge Maisel",
         "Profession": "Comedian"
-      }
+      },
+      {
+        "id": 3,
+        "Name": "Beyonce Knowles",
+        "Profession": "Queen"
+      },
+      {
+        "id": 4,
+        "Name": "George Washington",
+        "Profession": "Founding Father"
+      },
+      {
+        "id": 5,
+        "Name": "Elizabeth II",
+        "Profession": "Queen"
+      },
+      {
+        "id": 6,
+        "Name": "Alexander Hamilton",
+        "Profession": "Founding Father"
+      },
+      {
+        "id": 7,
+        "Name": "Jack Williams",
+        "Profession": "Do-Boy"
+      },
+      {
+        "id": 8,
+        "Name": "Ken M",
+        "Profession": "Troll"
+      },
+      {
+        "id": 9,
+        "Name": "Bruce Banner",
+        "Profession": "Ordinary Human"
+      },
+      {
+        "id": 10,
+        "Name": "Goblin Slayer",
+        "Profession": "Goblin Slayer"
+      },
     ],
     "profile": {
       "name": "typicode"
